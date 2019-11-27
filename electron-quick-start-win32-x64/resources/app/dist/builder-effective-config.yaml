@@ -1,0 +1,7 @@
+directories:
+  output: dist
+  buildResources: build
+appId: com.slinkin.quickstart
+win:
+  target: nsis
+electronVersion: 7.1.2
